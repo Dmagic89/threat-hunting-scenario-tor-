@@ -39,7 +39,8 @@ DeviceFileEvents
 
 ```
 
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/71402e84-8767-44f8-908c-1805be31122d">
+<img width="788" height="340" alt="{2BA98F29-76FF-49B3-938D-79EC4262DF98}" src="https://github.com/user-attachments/assets/194c500c-385a-4ad3-bddd-d6a4282444a5" />
+
 
 ---
 
@@ -58,7 +59,8 @@ DeviceProcessEvents
 |project Timestamp, DeviceName, AccountName, ActionType, FileName, FolderPath, SHA256, ProcessCommandLine
 
 ```
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/b07ac4b4-9cb3-4834-8fac-9f5f29709d78">
+<img width="820" height="163" alt="{26888C68-F3A6-4256-892B-BDA4BB4F8DE4}" src="https://github.com/user-attachments/assets/2e271218-de7f-4fd7-be4c-47997fda9f60" />
+
 
 ---
 
@@ -76,7 +78,8 @@ DeviceProcessEvents
 | order by Timestamp desc
 
 ```
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/b13707ae-8c2d-4081-a381-2b521d3a0d8f">
+<img width="782" height="341" alt="{2DF83E08-AA30-49C6-827F-3FC85710D116}" src="https://github.com/user-attachments/assets/f10f48c4-b6d7-432f-a687-3aede9cce996" />
+
 
 ---
 
@@ -97,7 +100,8 @@ DeviceNetworkEvents
 | order by Timestamp desc
 
 ```
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/87a02b5b-7d12-4f53-9255-f5e750d0e3cb">
+<img width="779" height="344" alt="{63D36092-BA96-4135-A7B0-5CAAB37AD8E7}" src="https://github.com/user-attachments/assets/ab7ca6d3-b50c-422c-bb3f-e54f471b5950" />
+
 
 ---
 
